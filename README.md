@@ -37,14 +37,6 @@ EscapeRoom/
 - **`VRItemPickup.cs`**: Facilitates picking up items and adding them to the inventory.
 - **`VRInventoryToggle.cs`**: Controls the visibility of the VR inventory UI.
 
-## Controls (VR Right Hand)
-
-- **A Button:** Adds the hovered or grabbed item to the inventory.
-- **B Button:** Interacts with doors or activates terminals.
-- **Grab Trigger:** Pick up and hold objects.
-
-## Assets Used
-
 ## Assets Used
 
 This repository does not include the third-party asset files themselves due to licensing restrictions. You can download them directly from the Unity Asset Store using the links below:
